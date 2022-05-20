@@ -11,6 +11,7 @@
  This program simulates the Josephus Flavius problem, by repeatedly removing the `n-th` name from a list of people. The user will input the size of the list and the names of the individuals in the given list. The user will also enter the position to start removing. At the end, the program displays the name of the survivor. 
  
  ## Example Output
- 
+ > A list of 8 soldiers, eliminating every 3rd person
+<img src=img\josephus-problem.png />
+
  > *Note: the number in parentheses is the original position of the soldier.*
- 
