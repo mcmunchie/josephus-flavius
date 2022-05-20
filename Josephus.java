@@ -3,7 +3,7 @@ import java.util.*;
 public class Josephus {
 
   Scanner userInput = new Scanner(System.in);
- 
+
   public void josephusFlaviusProblem() {
     String[] array = null;
     Queue<Integer> queue = new LinkedList<Integer>();
