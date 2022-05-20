@@ -1,7 +1,7 @@
 # Josephus Flavius
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ## Table of Contents
-+ [Military Leader and Historian: Flavius Josephus](https://github.com/mcmunchie/josephus-flavius#military-leader-and-historian-:-flavius-josephus)
++ [Military Leader and Historian: Flavius Josephus](https://github.com/mcmunchie/josephus-flavius#military-leader-and-historian-flavius-josephus)
 + [About the Program](https://github.com/mcmunchie/josephus-flavius#about-the-program)
 + [Example Output](https://github.com/mcmunchie/josephus-flavius#example-output)
  ## Military Leader and Historian: Flavius Josephus
